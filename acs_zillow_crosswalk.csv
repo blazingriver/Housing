@@ -1,0 +1,541 @@
+zillow_regionname,acs_regionname,acs_met2013,match_method
+abilene tx,"Abilene, TX",,substring
+adrian mi,"Adrian, MI",,substring
+akron oh,"Akron, OH","Akron, OH",substring
+albany ga,"Albany, GA",,substring
+albany ny,"Albany, GA",,substring
+albany or,"Albany, GA",,substring
+albertville al,"Albertville, AL",,substring
+albuquerque nm,"Albuquerque, NM","Albuquerque, NM",substring
+alexandria la,"Alexandria, LA","Alexandria, LA",substring
+allentown pa,"Allentown, PA",,substring
+altoona pa,"Altoona, PA","Altoona, PA",substring
+amarillo tx,"Amarillo, TX","Amarillo, TX",substring
+ames ia,"Ames, IA",,substring
+anchorage ak,"Anchorage, AK","Anchorage, AK",substring
+ann arbor mi,"Ann Arbor, MI","Ann Arbor, MI",substring
+appleton wi,"Appleton, WI",,substring
+asheville nc,"Asheville, NC","Asheville, NC",substring
+ashtabula oh,"Ashtabula, OH",,substring
+athens ga,"Athens, GA",,substring
+atlanta ga,"Atlanta, GA",,substring
+atlantic city nj,"Atlantic City, NJ",,substring
+auburn al,"Auburn, AL",,substring
+augusta ga,"Augusta, GA",,substring
+augusta me,"Augusta, GA",,substring
+austin tx,"Austin, TX",,substring
+bakersfield ca,"Bakersfield, CA","Bakersfield, CA",substring
+baltimore md,"Baltimore, MD",,substring
+bangor me,"Bangor, ME","Bangor, ME",substring
+barnstable town ma,"Barnstable Town, MA","Barnstable Town, MA",substring
+baton rouge la,"Baton Rouge, LA","Baton Rouge, LA",substring
+battle creek mi,"Battle Creek, MI","Battle Creek, MI",substring
+bay city mi,"Bay City, MI",,substring
+beaumont tx,"Beaumont, TX",,substring
+bellingham wa,"Bellingham, WA","Bellingham, WA",substring
+bend or,"Bend, OR",,substring
+billings mt,"Billings, MT","Billings, MT",substring
+binghamton ny,"Binghamton, NY","Binghamton, NY",substring
+birmingham al,"Birmingham, AL",,substring
+bismarck nd,"Bismarck, ND","Bismarck, ND",substring
+blacksburg va,"Blacksburg, VA",,substring
+bloomington il,"Bloomington, IL","Bloomington, IL",substring
+bloomington in,"Bloomington, IL","Bloomington, IL",substring
+boise city id,"Boise City, ID","Boise City, ID",substring
+boone nc,"Boone, NC",,substring
+boston ma,"Boston, MA",,substring
+boulder co,"Boulder, CO",,substring
+bowling green ky,"Bowling Green, KY",,substring
+bozeman mt,"Bozeman, MT",,substring
+brainerd mn,"Brainerd, MN",,substring
+breckenridge co,"Breckenridge, CO",,substring
+bremerton wa,"Bremerton, WA",,substring
+bridgeport ct,"Bridgeport, CT",,substring
+brownsville tx,"Brownsville, TX",,substring
+brunswick ga,"Brunswick, GA",,substring
+buffalo ny,"Buffalo, NY",,substring
+burlington nc,"Burlington, NC","Burlington, NC",substring
+burlington vt,"Burlington, NC","Burlington, NC",substring
+california md,"California, MD",,substring
+canton oh,"Canton, OH",,substring
+cape coral fl,"Cape Coral, FL",,substring
+cape girardeau mo,"Cape Coral, FL",,substring
+carbondale il,"Carbondale, IL",,substring
+casper wy,"Casper, WY",,substring
+cedar rapids ia,"Cedar Rapids, IA",,substring
+chambersburg pa,"Chambersburg, PA",,substring
+champaign il,"Champaign, IL",,substring
+charleston sc,"Charleston, SC",,substring
+charleston wv,"Charleston, SC",,substring
+charlotte nc,"Charlotte, NC",,substring
+charlottesville va,"Charlottesville, VA","Charlottesville, VA",substring
+chattanooga tn,"Chattanooga, TN",,substring
+cheyenne wy,"Cheyenne, WY","Cheyenne, WY",substring
+chicago il,"Chicago, IL",,substring
+chico ca,"Chico, CA","Chico, CA",substring
+cincinnati oh,"Cincinnati, OH",,substring
+clarksville tn,"Clarksville, TN",,substring
+cleveland oh,"Cleveland, OH",,substring
+cleveland tn,"Cleveland, OH",,substring
+coeur dalene id,"Coeur d'Alene, ID","Coeur d'Alene, ID",substring
+college station tx,"College Station, TX",,substring
+colorado springs co,"Colorado Springs, CO","Colorado Springs, CO",substring
+columbia mo,"Columbia, MO","Columbia, MO",substring
+columbia sc,"Columbia, MO","Columbia, MO",substring
+columbus ga,"Columbus, GA",,substring
+columbus oh,"Columbus, GA",,substring
+concord nh,"Concord, NH",,substring
+cookeville tn,"Cookeville, TN",,substring
+corpus christi tx,"Corpus Christi, TX","Corpus Christi, TX",substring
+crestview fl,"Crestview, FL",,substring
+crossville tn,"Crossville, TN",,substring
+cullowhee nc,"Cullowhee, NC",,substring
+dallas tx,"Dallas, TX",,substring
+daphne al,"Daphne, AL",,substring
+davenport ia,"Davenport, IA",,substring
+dayton oh,"Dayton, OH","Dayton, OH",substring
+decatur al,"Decatur, AL","Decatur, AL",substring
+decatur il,"Decatur, AL","Decatur, AL",substring
+deltona fl,"Deltona, FL",,substring
+denver co,"Denver, CO",,substring
+des moines ia,"Des Moines, IA",,substring
+detroit mi,"Detroit, MI",,substring
+dothan al,"Dothan, AL","Dothan, AL",substring
+dover de,"Dover, DE","Dover, DE",substring
+duluth mn,"Duluth, MN",,substring
+durango co,"Durango, CO",,substring
+durham nc,"Durham, NC",,substring
+east stroudsburg pa,"East Stroudsburg, PA","East Stroudsburg, PA",substring
+eau claire wi,"Beaumont, TX",,substring
+edwards co,"Edwards, CO",,substring
+el paso tx,"Bakersfield, CA","Bakersfield, CA",substring
+elizabethtown ky,"Elizabethtown, KY",,substring
+elkhart in,"Elkhart, IN",,substring
+erie pa,"Erie, PA","Erie, PA",substring
+eugene or,"Eugene, OR","Eugene, OR",substring
+eureka ca,"Eureka, CA",,substring
+evansville in,"Evansville, IN",,substring
+fargo nd,"Fargo, ND",,substring
+fayetteville ar,"Fayetteville, AR",,substring
+fayetteville nc,"Fayetteville, AR",,substring
+flagstaff az,"Flagstaff, AZ","Flagstaff, AZ",substring
+flint mi,"Flint, MI","Flint, MI",substring
+florence al,"Florence, AL",,substring
+florence sc,"Florence, AL",,substring
+fort collins co,"Fort Collins, CO","Fort Collins, CO",substring
+fort smith ar,"Fort Collins, CO","Fort Collins, CO",substring
+fort wayne in,"Fort Collins, CO","Fort Collins, CO",substring
+fresno ca,"Fresno, CA","Fresno, CA",substring
+gainesville fl,"Gainesville, FL","Gainesville, FL",substring
+gainesville ga,"Gainesville, FL","Gainesville, FL",substring
+georgetown sc,"Georgetown, SC",,substring
+gettysburg pa,"Gettysburg, PA",,substring
+gillette wy,"Gillette, WY",,substring
+glens falls ny,"Glens Falls, NY","Glens Falls, NY",substring
+glenwood springs co,"Glenwood Springs, CO",,substring
+goldsboro nc,"Goldsboro, NC","Goldsboro, NC",substring
+grand junction co,"Grand Junction, CO","Grand Junction, CO",substring
+grand rapids mi,"Grand Junction, CO","Grand Junction, CO",substring
+grants pass or,"Grants Pass, OR",,substring
+greeley co,"Greeley, CO","Greeley, CO",substring
+green bay wi,"Bowling Green, KY",,substring
+greensboro nc,"Greensboro, NC",,substring
+greenville nc,"Greenville, NC","Greenville, NC",substring
+greenville sc,"Greenville, NC","Greenville, NC",substring
+gulfport ms,"Gulfport, MS",,substring
+hagerstown md,"Hagerstown, MD",,substring
+hanford ca,"Hanford, CA",,substring
+harrisburg pa,"Harrisburg, PA",,substring
+harrisonburg va,"Harrisonburg, VA","Harrisonburg, VA",substring
+hartford ct,"Hartford, CT",,substring
+hattiesburg ms,"Hattiesburg, MS","Hattiesburg, MS",substring
+heber ut,"Heber, UT",,substring
+hickory nc,"Hickory, NC",,substring
+hilo hi,"Hilo, HI",,substring
+hilton head island sc,"Hilton Head Island, SC",,substring
+holland mi,"Holland, MI",,substring
+homosassa springs fl,"Homosassa Springs, FL","Homosassa Springs, FL",substring
+hot springs ar,"Hot Springs, AR",,substring
+houma la,"Houma, LA",,substring
+houston tx,"Houston, TX",,substring
+huntington wv,"Huntington, WV",,substring
+huntsville al,"Huntsville, AL","Huntsville, AL",substring
+idaho falls id,"Idaho Falls, ID",,substring
+indianapolis in,"Indianapolis, IN",,substring
+iowa city ia,"Iowa City, IA","Iowa City, IA",substring
+jackson mi,"Jackson, MI","Jackson, MI",substring
+jackson ms,"Jackson, MI","Jackson, MI",substring
+jackson tn,"Jackson, MI","Jackson, MI",substring
+jacksonville fl,"Jacksonville, FL","Jacksonville, FL",substring
+jacksonville nc,"Jacksonville, FL","Jacksonville, FL",substring
+janesville wi,"Janesville, WI",,substring
+jefferson city mo,"Jefferson City, MO","Jefferson City, MO",substring
+johnson city tn,"Johnson City, TN","Johnson City, TN",substring
+jonesboro ar,"Jonesboro, AR","Jonesboro, AR",substring
+joplin mo,"Joplin, MO","Joplin, MO",substring
+kahului hi,"Kahului, HI",,substring
+kalamazoo mi,"Kalamazoo, MI",,substring
+kalispell mt,"Kalispell, MT",,substring
+kankakee il,"Kankakee, IL","Kankakee, IL",substring
+kansas city mo,"Kansas City, MO",,substring
+kennewick wa,"Kennewick, WA",,substring
+key west fl,"Key West, FL",,substring
+kill devil hills nc,"Kill Devil Hills, NC",,substring
+killeen tx,"Killeen, TX",,substring
+kingsport tn,"Kingsport, TN",,substring
+kingston ny,"Kingston, NY",,substring
+knoxville tn,"Knoxville, TN","Knoxville, TN",substring
+kokomo in,"Kokomo, IN",,substring
+la crosse wi,"Alexandria, LA","Alexandria, LA",substring
+lafayette in,"Lafayette, IN",,substring
+lafayette la,"Lafayette, IN",,substring
+lake charles la,"Lake Charles, LA","Lake Charles, LA",substring
+lake havasu city az,"Lake Charles, LA","Lake Charles, LA",substring
+lakeland fl,"Lakeland, FL",,substring
+lancaster pa,"Lancaster, PA","Lancaster, PA",substring
+lansing mi,"Lansing, MI",,substring
+las cruces nm,"Dallas, TX",,substring
+las vegas nv,"Dallas, TX",,substring
+lawton ok,"Lawton, OK","Lawton, OK",substring
+lebanon nh,"Lebanon, NH",,substring
+lebanon pa,"Lebanon, NH",,substring
+lexington ky,"Lexington, KY",,substring
+lincoln ne,"Lincoln, NE","Lincoln, NE",substring
+little rock ar,"Little Rock, AR",,substring
+logan ut,"Logan, UT",,substring
+longview tx,"Longview, TX",,substring
+longview wa,"Longview, TX",,substring
+los angeles ca,"Los Angeles, CA",,substring
+louisville ky,"Louisville, KY",,substring
+lubbock tx,"Lubbock, TX","Lubbock, TX",substring
+lynchburg va,"Lynchburg, VA","Lynchburg, VA",substring
+macon ga,"Macon, GA",,substring
+madera ca,"Madera, CA","Madera, CA",substring
+madison wi,"Madison, WI",,substring
+manchester nh,"Manchester, NH",,substring
+manhattan ks,"Manhattan, KS",,substring
+mankato mn,"Mankato, MN",,substring
+mansfield oh,"Mansfield, OH","Mansfield, OH",substring
+marinette wi,"Marinette, WI",,substring
+mcallen tx,"McAllen, TX",,substring
+medford or,"Medford, OR","Medford, OR",substring
+memphis tn,"Memphis, TN",,substring
+merced ca,"Merced, CA","Merced, CA",substring
+miami fl,"Miami, FL",,substring
+michigan city in,"Michigan City, IN",,substring
+midland tx,"Midland, TX","Midland, TX",substring
+milwaukee wi,"Milwaukee, WI",,substring
+minneapolis mn,"Minneapolis, MN",,substring
+missoula mt,"Missoula, MT",,substring
+mobile al,"Mobile, AL","Mobile, AL",substring
+modesto ca,"Modesto, CA","Modesto, CA",substring
+monroe la,"Monroe, LA","Monroe, LA",substring
+monroe mi,"Monroe, LA","Monroe, LA",substring
+montgomery al,"Montgomery, AL","Montgomery, AL",substring
+morehead city nc,"Morehead City, NC",,substring
+morgantown wv,"Morgantown, WV","Morgantown, WV",substring
+morristown tn,"Morristown, TN",,substring
+mount vernon wa,"Mount Vernon, WA",,substring
+muncie in,"Muncie, IN","Muncie, IN",substring
+muskegon mi,"Muskegon, MI","Muskegon, MI",substring
+myrtle beach sc,"Myrtle Beach, SC",,substring
+napa ca,"Napa, CA","Napa, CA",substring
+naples fl,"Naples, FL",,substring
+nashville tn,"Nashville, TN",,substring
+new bern nc,"Kennewick, WA",,substring
+new haven ct,"Kennewick, WA",,substring
+new orleans la,"Kennewick, WA",,substring
+new york ny,"Kennewick, WA",,substring
+niles mi,"Niles, MI",,substring
+north port fl,"North Port, FL",,substring
+norwich ct,"Norwich, CT",,substring
+oak harbor wa,"Oak Harbor, WA",,substring
+ocala fl,"Ocala, FL","Ocala, FL",substring
+ocean city nj,"Ocean City, NJ","Ocean City, NJ",substring
+odessa tx,"Odessa, TX","Odessa, TX",substring
+ogden ut,"Ogden, UT",,substring
+oklahoma city ok,"Oklahoma City, OK","Oklahoma City, OK",substring
+olympia wa,"Olympia, WA",,substring
+omaha ne,"Omaha, NE",,substring
+orlando fl,"Orlando, FL",,substring
+oshkosh wi,"Oshkosh, WI",,substring
+ottawa il,"Ottawa, IL",,substring
+oxnard ca,"Oxnard, CA",,substring
+paducah ky,"Paducah, KY",,substring
+palm bay fl,"Palm Bay, FL",,substring
+panama city fl,"Panama City, FL","Panama City, FL",substring
+pensacola fl,"Pensacola, FL",,substring
+peoria il,"Peoria, IL","Peoria, IL",substring
+philadelphia pa,"Philadelphia, PA",,substring
+phoenix az,"Phoenix, AZ",,substring
+pinehurst nc,"Pinehurst, NC",,substring
+pittsburgh pa,"Pittsburgh, PA","Pittsburgh, PA",substring
+pittsfield ma,"Pittsfield, MA","Pittsfield, MA",substring
+port angeles wa,"Bridgeport, CT",,substring
+port st lucie fl,"Bridgeport, CT",,substring
+portland me,"Portland, ME",,substring
+portland or,"Portland, ME",,substring
+pottsville pa,"Pottsville, PA",,substring
+poughkeepsie ny,"Poughkeepsie, NY",,substring
+prescott valley az,"Prescott Valley, AZ",,substring
+providence ri,"Providence, RI",,substring
+provo ut,"Provo, UT",,substring
+pueblo co,"Pueblo, CO","Pueblo, CO",substring
+punta gorda fl,"Punta Gorda, FL","Punta Gorda, FL",substring
+racine wi,"Racine, WI","Racine, WI",substring
+raleigh nc,"Raleigh, NC","Raleigh, NC",substring
+rapid city sd,"Cedar Rapids, IA",,substring
+reading pa,"Reading, PA","Reading, PA",substring
+redding ca,"Redding, CA","Redding, CA",substring
+reno nv,"Reno, NV","Reno, NV",substring
+richmond va,"Richmond, VA","Richmond, VA",substring
+riverside ca,"Riverside, CA",,substring
+roanoke va,"Roanoke, VA","Roanoke, VA",substring
+rochester mn,"Rochester, MN",,substring
+rochester ny,"Rochester, MN",,substring
+rockford il,"Rockford, IL","Rockford, IL",substring
+rocky mount nc,"Rocky Mount, NC","Rocky Mount, NC",substring
+rome ga,"Rome, GA",,substring
+rutland vt,"Rutland, VT",,substring
+sacramento ca,"Sacramento, CA",,substring
+saginaw mi,"Saginaw, MI","Saginaw, MI",substring
+salem or,"Salem, OR","Salem, OR",substring
+salinas ca,"Salinas, CA","Salinas, CA",substring
+salisbury md,"Salisbury, MD",,substring
+salt lake city ut,"Salt Lake City, UT","Salt Lake City, UT",substring
+san antonio tx,"San Antonio, TX",,substring
+san diego ca,"San Antonio, TX",,substring
+san francisco ca,"San Antonio, TX",,substring
+san jose ca,"San Antonio, TX",,substring
+san luis obispo ca,"San Antonio, TX",,substring
+santa cruz ca,"Santa Cruz, CA",,substring
+santa fe nm,"Santa Cruz, CA",,substring
+santa maria ca,"Santa Cruz, CA",,substring
+santa rosa ca,"Santa Cruz, CA",,substring
+savannah ga,"Savannah, GA",,substring
+scranton pa,"Scranton, PA",,substring
+seattle wa,"Seattle, WA",,substring
+sebastian fl,"Sebastian, FL",,substring
+sebring fl,"Sebring, FL",,substring
+seneca sc,"Seneca, SC",,substring
+sevierville tn,"Sevierville, TN",,substring
+sheboygan wi,"Sheboygan, WI","Sheboygan, WI",substring
+sherman tx,"Sherman, TX",,substring
+show low az,"Show Low, AZ",,substring
+shreveport la,"Shreveport, LA",,substring
+sierra vista az,"Sierra Vista, AZ",,substring
+sioux city ia,"Sioux City, IA",,substring
+sioux falls sd,"Sioux City, IA",,substring
+south bend in,"South Bend, IN",,substring
+spartanburg sc,"Spartanburg, SC","Spartanburg, SC",substring
+spokane wa,"Spokane, WA",,substring
+springfield il,"Springfield, IL","Springfield, IL",substring
+springfield ma,"Springfield, IL","Springfield, IL",substring
+springfield mo,"Springfield, IL","Springfield, IL",substring
+springfield oh,"Springfield, IL","Springfield, IL",substring
+st cloud mn,"Augusta, GA",,substring
+st george ut,"Augusta, GA",,substring
+st joseph mo,"Augusta, GA",,substring
+st louis mo,"Augusta, GA",,substring
+state college pa,"State College, PA","State College, PA",substring
+staunton va,"Staunton, VA",,substring
+stockton ca,"Stockton, CA",,substring
+sumter sc,"Sumter, SC","Sumter, SC",substring
+sunbury pa,"Sunbury, PA",,substring
+syracuse ny,"Syracuse, NY","Syracuse, NY",substring
+tallahassee fl,"Tallahassee, FL","Tallahassee, FL",substring
+tampa fl,"Tampa, FL",,substring
+terre haute in,"Terre Haute, IN","Terre Haute, IN",substring
+the villages fl,"Athens, GA",,substring
+toledo oh,"Toledo, OH","Toledo, OH",substring
+topeka ks,"Topeka, KS","Topeka, KS",substring
+torrington ct,"Torrington, CT",,substring
+traverse city mi,"Traverse City, MI",,substring
+trenton nj,"Trenton, NJ","Trenton, NJ",substring
+truckee ca,"Truckee, CA",,substring
+tucson az,"Tucson, AZ","Tucson, AZ",substring
+tullahoma tn,"Tullahoma, TN",,substring
+tulsa ok,"Tulsa, OK","Tulsa, OK",substring
+tuscaloosa al,"Tuscaloosa, AL","Tuscaloosa, AL",substring
+twin falls id,"Twin Falls, ID",,substring
+tyler tx,"Tyler, TX","Tyler, TX",substring
+united states,United States,,substring
+urban honolulu hi,"Urban Honolulu, HI","Urban Honolulu, HI",substring
+utica ny,"Utica, NY",,substring
+valdosta ga,"Valdosta, GA","Valdosta, GA",substring
+vallejo ca,"Vallejo, CA",,substring
+vineland nj,"Vineland, NJ",,substring
+virginia beach va,"Virginia Beach, VA",,substring
+visalia ca,"Visalia, CA",,substring
+waco tx,"Waco, TX","Waco, TX",substring
+warner robins ga,"Warner Robins, GA","Warner Robins, GA",substring
+washington dc,"Washington, DC",,substring
+waterloo ia,"Waterloo, IA",,substring
+watertown ny,"Watertown, NY",,substring
+wausau wi,"Wausau, WI","Wausau, WI",substring
+wenatchee wa,"Wenatchee, WA","Wenatchee, WA",substring
+wheeling wv,"Wheeling, WV",,substring
+whitewater wi,"Whitewater, WI",,substring
+wichita falls tx,"Wichita Falls, TX","Wichita Falls, TX",substring
+wichita ks,"Wichita Falls, TX","Wichita Falls, TX",substring
+williamsport pa,"Williamsport, PA","Williamsport, PA",substring
+wilmington nc,"Wilmington, NC","Wilmington, NC",substring
+winchester va,"Winchester, VA",,substring
+winston nc,"Winston, NC",,substring
+worcester ma,"Worcester, MA",,substring
+yakima wa,"Yakima, WA","Yakima, WA",substring
+york pa,"New York, NY",,substring
+youngstown oh,"Youngstown, OH",,substring
+yuba city ca,"Yuba City, CA","Yuba City, CA",substring
+yuma az,"Yuma, AZ","Yuma, AZ",substring
+albany schenectady troy ny,"Albany, GA",,substring
+allentown bethlehem easton pa nj,"Allentown, PA",,substring
+anniston oxford jacksonville al,"Anniston-Oxford-Jacksonville, AL","Anniston-Oxford-Jacksonville, AL",substring
+athens clarke county ga,"Athens, GA",,substring
+atlanta sandy springs roswell ga,"Atlanta, GA",,substring
+atlantic city hammonton nj,"Atlantic City, NJ",,substring
+auburn opelika al,"Auburn, AL",,substring
+augusta richmond county ga sc,"Augusta, GA",,substring
+austin round rock tx,"Austin, TX",,substring
+baltimore columbia towson md,"Baltimore, MD",,substring
+beaumont port arthur tx,"Beaumont, TX",,substring
+beckley wv,"Beckley, WV","Beckley, WV",substring
+bend redmond or,"Bend, OR",,substring
+birmingham hoover al,"Birmingham, AL",,substring
+blacksburg christiansburg radford va,"Blacksburg, VA",,substring
+boston cambridge newton ma nh,"Boston, MA",,substring
+bremerton silverdale wa,"Bremerton, WA",,substring
+bridgeport stamford norwalk ct,"Bridgeport, CT",,substring
+brownsville harlingen tx,"Brownsville, TX",,substring
+buffalo cheektowaga niagara falls ny,"Buffalo, NY",,substring
+burlington south burlington vt,"Burlington, NC","Burlington, NC",substring
+california lexington park md,"California, MD",,substring
+canton massillon oh,"Canton, OH",,substring
+cape coral fort myers fl,"Cape Coral, FL",,substring
+champaign urbana il,"Champaign, IL",,substring
+charleston north charleston sc,"Charleston, SC",,substring
+charlotte concord gastonia nc sc,"Charlotte, NC",,substring
+chattanooga tn ga,"Chattanooga, TN",,substring
+chicago naperville elgin il in wi,"Chicago, IL",,substring
+cincinnati oh ky in,"Cincinnati, OH",,substring
+clarksville tn ky,"Clarksville, TN",,substring
+cleveland elyria oh,"Cleveland, OH",,substring
+college station bryan tx,"College Station, TX",,substring
+corvallis or,"Corvallis, OR","Corvallis, OR",substring
+crestview fort walton beach destin fl,"Crestview, FL",,substring
+dallas fort worth arlington tx,"Dallas, TX",,substring
+daphne fairhope foley al,"Daphne, AL",,substring
+davenport moline rock island ia il,"Davenport, IA",,substring
+deltona daytona beach ormond beach fl,"Deltona, FL",,substring
+denver aurora lakewood co,"Denver, CO",,substring
+des moines west des moines ia,"Des Moines, IA",,substring
+detroit warren dearborn mi,"Detroit, MI",,substring
+durham chapel hill nc,"Durham, NC",,substring
+el centro ca,"Bakersfield, CA","Bakersfield, CA",substring
+elizabethtown fort knox ky,"Elizabethtown, KY",,substring
+elkhart goshen in,"Elkhart, IN",,substring
+evansville in ky,"Evansville, IN",,substring
+farmington nm,"Farmington, NM","Farmington, NM",substring
+fayetteville springdale rogers ar mo,"Fayetteville, AR",,substring
+florence muscle shoals al,"Florence, AL",,substring
+gadsden al,"Gadsden, AL","Gadsden, AL",substring
+grand rapids wyoming mi,"Grand Junction, CO","Grand Junction, CO",substring
+greensboro high point nc,"Greensboro, NC",,substring
+greenville anderson mauldin sc,"Greenville, NC","Greenville, NC",substring
+gulfport biloxi pascagoula ms,"Gulfport, MS",,substring
+hammond la,"Hammond, LA","Hammond, LA",substring
+hanford corcoran ca,"Hanford, CA",,substring
+harrisburg carlisle pa,"Harrisburg, PA",,substring
+hartford west hartford east hartford ct,"Hartford, CT",,substring
+hickory lenoir morganton nc,"Hickory, NC",,substring
+hilton head island bluffton beaufort sc,"Hilton Head Island, SC",,substring
+houma thibodaux la,"Houma, LA",,substring
+houston the woodlands sugar land tx,"Houston, TX",,substring
+indianapolis carmel anderson in,"Indianapolis, IN",,substring
+ithaca ny,"Ithaca, NY","Ithaca, NY",substring
+janesville beloit wi,"Janesville, WI",,substring
+johnstown pa,"Johnstown, PA","Johnstown, PA",substring
+kalamazoo portage mi,"Kalamazoo, MI",,substring
+kansas city mo ks,"Kansas City, MO",,substring
+kennewick richland wa,"Kennewick, WA",,substring
+killeen temple tx,"Killeen, TX",,substring
+kingsport bristol bristol tn va,"Kingsport, TN",,substring
+la crosse onalaska wi mn,"Alexandria, LA","Alexandria, LA",substring
+lafayette west lafayette in,"Lafayette, IN",,substring
+lake havasu city kingman az,"Lake Charles, LA","Lake Charles, LA",substring
+lakeland winter haven fl,"Lakeland, FL",,substring
+lansing east lansing mi,"Lansing, MI",,substring
+laredo tx,"Laredo, TX","Laredo, TX",substring
+las vegas henderson paradise nv,"Dallas, TX",,substring
+lawrence ks,"Lawrence, KS","Lawrence, KS",substring
+lewiston auburn me,"Lewiston-Auburn, ME","Lewiston-Auburn, ME",substring
+lima oh,"Lima, OH","Lima, OH",substring
+little rock north little rock conway ar,"Little Rock, AR",,substring
+los angeles long beach anaheim ca,"Los Angeles, CA",,substring
+louisvillejefferson county ky in,"Louisville/Jefferson County, KY-IN","Louisville/Jefferson County, KY-IN",substring
+manchester nashua nh,"Manchester, NH",,substring
+mankato north mankato mn,"Mankato, MN",,substring
+mcallen edinburg mission tx,"McAllen, TX",,substring
+memphis tn ms ar,"Memphis, TN",,substring
+miami fort lauderdale west palm beach fl,"Miami, FL",,substring
+michigan city la porte in,"Michigan City, IN",,substring
+milwaukee waukesha west allis wi,"Milwaukee, WI",,substring
+minneapolis st paul bloomington mn wi,"Minneapolis, MN",,substring
+mount vernon anacortes wa,"Mount Vernon, WA",,substring
+myrtle beach conway north myrtle beach sc nc,"Myrtle Beach, SC",,substring
+naples immokalee marco island fl,"Naples, FL",,substring
+nashville davidson murfreesboro franklin tn,"Nashville, TN",,substring
+new haven milford ct,"Kennewick, WA",,substring
+new orleans metairie la,"Kennewick, WA",,substring
+new york newark jersey city ny nj pa,"Kennewick, WA",,substring
+niles benton harbor mi,"Niles, MI",,substring
+north port sarasota bradenton fl,"North Port, FL",,substring
+norwich new london ct,"Norwich, CT",,substring
+not in identifiable area,Not in identifiable area,Not in identifiable area,substring
+ogden clearfield ut,"Ogden, UT",,substring
+olympia tumwater wa,"Olympia, WA",,substring
+omaha council bluffs ne ia,"Omaha, NE",,substring
+orlando kissimmee sanford fl,"Orlando, FL",,substring
+oshkosh neenah wi,"Oshkosh, WI",,substring
+owensboro ky,"Owensboro, KY","Owensboro, KY",substring
+oxnard thousand oaks ventura ca,"Oxnard, CA",,substring
+palm bay melbourne titusville fl,"Palm Bay, FL",,substring
+parkersburg vienna wv,"Parkersburg-Vienna, WV","Parkersburg-Vienna, WV",substring
+pensacola ferry pass brent fl,"Pensacola, FL",,substring
+philadelphia camden wilmington pa nj de md,"Philadelphia, PA",,substring
+phoenix mesa scottsdale az,"Phoenix, AZ",,substring
+portland south portland me,"Portland, ME",,substring
+portland vancouver hillsboro or wa,"Portland, ME",,substring
+prescott az,"Prescott Valley, AZ",,substring
+providence warwick ri ma,"Providence, RI",,substring
+provo orem ut,"Provo, UT",,substring
+riverside san bernardino ontario ca,"Riverside, CA",,substring
+sacramento roseville arden arcade ca,"Sacramento, CA",,substring
+salisbury md de,"Salisbury, MD",,substring
+san angelo tx,"San Antonio, TX",,substring
+san antonio new braunfels tx,"San Antonio, TX",,substring
+san diego carlsbad ca,"San Antonio, TX",,substring
+san francisco oakland hayward ca,"San Antonio, TX",,substring
+san jose sunnyvale santa clara ca,"San Antonio, TX",,substring
+san luis obispo paso robles arroyo grande ca,"San Antonio, TX",,substring
+santa cruz watsonville ca,"Santa Cruz, CA",,substring
+santa maria santa barbara ca,"Santa Cruz, CA",,substring
+scranton wilkes barre hazleton pa,"Scranton, PA",,substring
+seattle tacoma bellevue wa,"Seattle, WA",,substring
+sebastian vero beach fl,"Sebastian, FL",,substring
+shreveport bossier city la,"Shreveport, LA",,substring
+spokane spokane valley wa,"Spokane, WA",,substring
+st joseph mo ks,"Augusta, GA",,substring
+st louis mo il,"Augusta, GA",,substring
+stockton lodi ca,"Stockton, CA",,substring
+tampa st petersburg clearwater fl,"Tampa, FL",,substring
+utica rome ny,"Utica, NY",,substring
+vallejo fairfield ca,"Vallejo, CA",,substring
+vineland bridgeton nj,"Vineland, NJ",,substring
+virginia beach norfolk newport news va nc,"Virginia Beach, VA",,substring
+visalia porterville ca,"Visalia, CA",,substring
+washington arlington alexandria dc va md wv,"Washington, DC",,substring
+winston salem nc,"Winston, NC",,substring
+worcester ma ct,"Worcester, MA",,substring
+york hanover pa,"New York, NY",,substring
+youngstown warren boardman oh pa,"Youngstown, OH",,substring
