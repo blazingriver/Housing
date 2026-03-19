@@ -10,8 +10,8 @@ Research Workflow
 
 This stage constructs the metropolitan-level modeling dataset used in estimation.
 
-Required files (omitted here for size):
-- clean_IPUMS_01.dta
+Required files:
+- clean_IPUMS_01.dta (Omitted due to size)
 - Med_SaleList.csv
 - acs_zillow_crosswalk.csv
 
