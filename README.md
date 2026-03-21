@@ -1,6 +1,6 @@
 Code Sample Introduction
 
-The project measures pre-COVID housing market tightness using the Zillow Sale-to-List Ratio (SLR) and combines Zillow housing data with metropolitan characteristics derived from ACS data. The final modeling dataset is then used to estimate heterogeneous treatment effects with Causal Forests using honest trees. The goal is to examine whether the relationship between pre-pandemic housing tightness and subsequent home value growth varied systematically across metropolitan areas with different pre-pandemic characteristics.
+The project measures pre-COVID housing market tightness using the Zillow Sale-to-List Ratio (SLR) and combines Zillow housing data with metropolitan characteristics derived from ACS data. The final modeling dataset is then used to estimate heterogeneous relationships using causal forest methods. The goal is to examine whether the relationship between pre-pandemic housing tightness and subsequent home value growth varied systematically across metropolitan areas with different pre-pandemic characteristics.
 
 This code sample is a two-stage empirical workflow in Stata and Python. Data cleaning and construction began in Stata, and analysis was completed in Python.
 
